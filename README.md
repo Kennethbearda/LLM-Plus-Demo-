@@ -57,3 +57,8 @@ python -m venv .venv
 source .venv/bin/activate   # Windows: .venv\Scripts\activate
 pip install -r requirements.txt
 python main.py --demo
+---
+**Kenneth Beard**  
+LinkedIn: https://linkedin.com/in/ken-beard-8923a62b2  
+Email: kennethbearda@gmail.com
+
