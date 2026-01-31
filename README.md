@@ -48,6 +48,8 @@ This repository demonstrates the **core workflow, aggregation logic, and system 
 
 ## Running the Demo (Local)
 
+## Running the Demo (Local)
+
 This demo mode runs **without API keys or credentials**.
 
 ```bash
@@ -57,8 +59,20 @@ python -m venv .venv
 source .venv/bin/activate   # Windows: .venv\Scripts\activate
 pip install -r requirements.txt
 python main.py --demo
+```
+
+Demo mode simulates multi-model outputs and exercises the aggregation logic end-to-end.
+
 ---
+
+## License
+
+Demo-only; not for production use. See `LICENSE` or contact me for details.
+
+---
+
 **Kenneth Beard**  
 LinkedIn: https://linkedin.com/in/ken-beard-8923a62b2  
 Email: kennethbearda@gmail.com
+
 
